@@ -35,7 +35,7 @@ body{
 html, body, #container-wrapper, #container, #main-wrapper, #main{
 	height: 100%;
 }
-#header, #main{
+header, #main{
 	margin: 0 auto;
 	width: 1040px;
 }
@@ -306,7 +306,7 @@ input[type="submit"]:active{
 	border-radius:3px;
 	padding: 10px 10px 20px 10px;
 }
- .search-cluster .formtextbox input[type="text"]{
+ .search-cluster .formtextbox input[type="search"]{
 	 float:left;
 	 width: 350px;
 	 height: 30px;
