@@ -42,6 +42,9 @@ header, #main{
 #main{
 	background: #FFF;
 }
+#main:focus{
+    outline: 0;
+}
 #main-inner{
 	background: #FFFFFF;
 	overflow:hidden;
@@ -275,16 +278,16 @@ input[type="submit"]:active{
 	float:right;
 	margin-right: 10px
 }
-.search-default input[type="text"]{
+.search-default input[type="search"]{
 	float: left;
 	width: 220px;
 	height: 22px;
 	margin-right:10px;
- */}
-.search-default input[type="text"]:hover{
+ }
+.search-default input[type="search"]:hover{
 	background-color:#fff;
 }
-.search-default input[type="text"]:focus{
+.search-default input[type="search"]:focus{
 	background-color:#fff!important;
 }
 .search-default input[type="submit"]{
