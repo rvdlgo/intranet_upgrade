@@ -575,13 +575,13 @@ facetten */
 	-webkit-box-shadow:0 2px 5px rgba(0, 0, 0, 0.4);
  	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);	
 }
-.navigation-default .first a{
+.navigation-default li:first-of-type a{
 	background: url("../../images/home_button.png") no-repeat center;
 	width:30px;
 	height:30px;	
 	padding:0;
 }
-.navigation-default .first a span{
+.navigation-default li:first-of-type a span{
 	display:none;
 }
 .site-navigation .g-grid-span3{
