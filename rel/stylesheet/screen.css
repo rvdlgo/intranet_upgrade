@@ -587,15 +587,15 @@ facetten */
 .site-navigation .g-grid-span3{
 	background: url("../../images/bg-lijn.png") repeat-y right;
 }
-.site-navigation .last{
-	background-image:none
-}
-.item2{
+.s-nav-1 {
 	background: #DFEAEE url("../../images/bg_sitenav.png") no-repeat 9% 0;
 	margin-top: -10px;
 }
-.item3{
+.s-nav-2 {
 	background: #DFEAEE url("../../images/bg_sitenav.png") no-repeat 20% 0;
+}
+.site-navigation .last{
+	background-image:none
 }
 .site-navigation{
 	width: 1040px;

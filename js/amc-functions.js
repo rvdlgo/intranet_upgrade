@@ -1,25 +1,22 @@
 $(document).ready(function() {
-    /*$('#navigation .hasChild').each(function( index ) {
-        $('<div class="'+ this.id +' site-navigation displaynone"><a href="#" class="close-menu">Sluiten</a></div>').prependTo('#main-inner');
-        $('#'+ this.id +' ul:first').appendTo('.'+ this.id);
-    });
-   $('#navigation .hasChild').each(function( index ) {
-        $('<div class="'+ this.id +' site-navigation displaynone"></div>').prependTo('#main-inner');
-        $('#'+ this.id +' ul:first').appendTo('.'+ this.id);
-    });*/
+ 	function toggleNavFunction(i){
+		return function(){
+			$('.subnavigation-default').hide();
+			$('.site-navigation').not('.s-nav-'+ i).hide();
+			$('.s-nav-'+ i).toggle();
+	        return false;
+		}
+	}	
+	var navItems = $('nav .item a');	
+	if (navItems.length) {
+		navItems.each(function(index) {
+			// skip the homepage
+			if (index > 0) {
+				$(this).click(toggleNavFunction(index));		
+			}
+		});
+	}
     
-    $('#item2 a').click(function() {
-    // $('#navigation .hasChild a').click(function() {
-        // $('.site-navigation').hide();
-        $('.item3, .subnavigation-default').hide();
-        $('.'+ $(this).parent().attr('id')).toggle();
-        return false;
-    });
-    $('#item3 a').click(function() {
-        $('.item2, .subnavigation-default').hide();
-        $('.'+ $(this).parent().attr('id')).toggle();
-        return false;
-    });
     $('.site-navigation .close-menu').click(function() {
         $('.site-navigation').hide();
     });
