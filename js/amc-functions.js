@@ -6,24 +6,24 @@ $(document).ready(function() {
 			$('.s-nav-'+ i).toggle();
 	        return false;
 		}
-	}	
-	var navItems = $('nav .item a');	
+	}
+	var navItems = $('nav .item a');
 	if (navItems.length) {
 		navItems.each(function(index) {
 			// skip the homepage
 			if (index > 0) {
-				$(this).click(toggleNavFunction(index));		
+				$(this).click(toggleNavFunction(index));
 			}
 		});
 	}
-    
+
     $('.site-navigation .close-menu').click(function() {
         $('.site-navigation').hide();
     });
     $('.subnavigation-default .close-menu').click(function() {
         $('.subnavigation-default').hide();
     });
-    
+
     /*
      * Subnavigation
      */
@@ -54,7 +54,7 @@ function TabsActivate(rootnode, selectedindex) {
         var i;
         var result = [];
         var kid;
-        
+
         for (i=0; i<len; i++) {
             kid = kids[i];
             if (kid.nodeName.toLowerCase() === "div") {
@@ -63,7 +63,7 @@ function TabsActivate(rootnode, selectedindex) {
         }
         return result;
     }
-    
+
     function activatePane(panes, selectedindex) {
         var classname;
         var i;
@@ -73,7 +73,7 @@ function TabsActivate(rootnode, selectedindex) {
                 i === selectedindex ? "tabsactive" : "tabsinactive");
         }
     }
-        
+
     rootdivs = findDivs(rootnode);
     activatePane(findDivs(rootdivs[0]), selectedindex);
     activatePane(findDivs(rootdivs[1]), selectedindex);
@@ -84,9 +84,9 @@ function TabsActivate(rootnode, selectedindex) {
       heightStyle: "content"
     });
   });
-  
-  
-  
+
+
+/*
 function fillResult(mode, data) {
 	//alert('ping');
 	var moreResultsMode = false;
@@ -133,7 +133,7 @@ function fillResult(mode, data) {
 					newData += s;
 				})
 				newData += ')';
-			}			
+			}
 			newData += ' | <a id="anchor_' + index + '" href="#' + index + '" onclick="searchResultSelected(\'' + r.location + '\');" title="' + title + '">aanvragen</a></h3>';
 			newData += '<div class="summary">';
 			if (r.details != null && r.details.length > 0) {
@@ -142,7 +142,7 @@ function fillResult(mode, data) {
 				})
 			}
 			newData += '[Software]</div>';
-			
+
 		}else{
 			for (itemIndex = 0; itemIndex<itemOrder.length; itemIndex++) {
 				itemProperty = itemOrder[itemIndex];
@@ -218,3 +218,5 @@ function fillResult(mode, data) {
 	$('div .searchresult-tabbedfacet').html('');
 	fillValues(data);
 }
+
+*/
