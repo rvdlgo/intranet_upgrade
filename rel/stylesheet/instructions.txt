@@ -1,4 +1,4 @@
-screen.css
+screen-min.css
 skin.css
 
 

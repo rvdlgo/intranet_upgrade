@@ -461,11 +461,16 @@ input[type="submit"]:active {
     margin-right: 10px
 }
 
+input[type="search"] {
+    appearance: textfield;
+}
+
 .search-default input[type="search"] {
     float: left;
     width: 220px;
     height: 22px;
     margin-right: 10px;
+    appearance: textfield;
 }
 
 .search-default input[type="search"]:hover {
@@ -572,10 +577,13 @@ input[type="submit"]:active {
 .publicationDateLabel,
 #searchresultbox .url,
 .search-result-count br,
-.block-searchresults .splitter,
-.block-searchresults .category {
+{
     display: none;
 }
+
+
+/*.block-searchresults .splitter,
+.block-searchresults .category */
 
 .h-wrapper {
     font-size: 0.9em;
