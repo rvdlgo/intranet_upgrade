@@ -1930,7 +1930,7 @@ select[id="searchresult-order"] {
     display: none;
 }
 
-.molist-default .itemdate {
+.molist-default .itemdate, .molist-default time {
     display: none;
 }
 

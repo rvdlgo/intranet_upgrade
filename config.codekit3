@@ -580,16 +580,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/rel\/stylesheet\/screen-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/rel\/stylesheet\/screen-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/rel\/stylesheet\/screen.css": {
 		"aP": 1,
 		"bl": 0,
