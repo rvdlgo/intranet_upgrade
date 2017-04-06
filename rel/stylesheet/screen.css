@@ -116,7 +116,9 @@ legend {
 #yui3-css-stamp.cssreset {
     display: none
 }
-
+:focus{
+    outline: none;
+}
 @font-face {
     font-family: "source sans proregular";
     src: url('../../fonts/SourceSansPro-Regular-webfont.eot');
@@ -1791,7 +1793,34 @@ select[id="searchresult-order"] {
     border-left: 1px solid #505050;
 }
 
-.poll-default .title {}
+.poll_header {
+    color: #505050!important;
+    font-size: 16px;
+}
+
+.poll_totalvotes {
+    color: #505050!important;
+    margin-left: 0!important;
+    
+}
+
+.poll_summary {
+    color: #505050!important;
+    margin-left: 0!important;
+    font-size: 12px;
+}
+
+.poll_result .question, .poll_form h3 {
+	color: #AA273B;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    line-height: normal;
+	font-family: "source sans proregular"!important;
+	font-weight: 400
+
+}
+
 
 .pagecollection .page {
     line-height: normal;
