@@ -1948,9 +1948,7 @@ select[id="searchresult-order"] {
     display: none;
 }
 
-.incontext .column-wide .block-is-inzet .site-navigation {
-    display: block!important;
-}
+.rte_container .site-navigation {display: block;}
 
 .block-is-inzet {
     width: 1040px;

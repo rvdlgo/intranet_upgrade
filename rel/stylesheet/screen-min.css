@@ -1617,8 +1617,8 @@ select[id="searchresult-order"] {
 .column-wider .g-grid-row {
   display: none; }
 
-.incontext .column-wide .block-is-inzet .site-navigation {
-  display: block !important; }
+.rte_container .site-navigation {
+  display: block; }
 
 .block-is-inzet {
   width: 1040px; }
