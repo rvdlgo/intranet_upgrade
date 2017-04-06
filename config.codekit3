@@ -7,7 +7,7 @@
 		"uuidString": "2F9112F4-D863-4FC8-AB1F-CFDB7A780DDC"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/dist\/intranet_amc_2017-02-21.zip": {
 		"ft": 8192,
@@ -37,6 +37,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/intranet_amc_2017-03-02.zip",
+		"oF": 0
+		},
+	"\/dist\/intranet_amc_2017-03-23.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/intranet_amc_2017-03-23.zip",
 		"oF": 0
 		},
 	"\/fonts\/SourceSansPro-It-webfont.eot": {
@@ -154,361 +160,397 @@
 	"\/images\/bactotop.png": {
 		"ft": 32768,
 		"iS": 245,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bactotop.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg-button.png": {
 		"ft": 32768,
 		"iS": 282,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg-button.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg-lijn.png": {
 		"ft": 32768,
 		"iS": 127,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg-lijn.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg_lijncluster.png": {
 		"ft": 32768,
 		"iS": 164,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg_lijncluster.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg_main.png": {
 		"ft": 32768,
 		"iS": 12767,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg_main.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg_sitenav.png": {
 		"ft": 32768,
 		"iS": 201,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg_sitenav.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg_tabs.png": {
 		"ft": 32768,
 		"iS": 130,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg_tabs.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bg_verloop.png": {
 		"ft": 32768,
 		"iS": 148,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/bg_verloop.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/button-icons.png": {
 		"ft": 32768,
 		"iS": 904,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/button-icons.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/formsteps.png": {
 		"ft": 32768,
 		"iS": 158,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/formsteps.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/home_button.png": {
 		"ft": 32768,
 		"iS": 269,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/home_button.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icon_external.png": {
 		"ft": 32768,
 		"iS": 185,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icon_external.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icon_mailto.png": {
 		"ft": 32768,
 		"iS": 238,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icon_mailto.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons-sprite.png": {
 		"ft": 32768,
 		"iS": 18175,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons-sprite.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_ai.png": {
 		"ft": 32768,
 		"iS": 1414,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_ai.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_cdr.png": {
 		"ft": 32768,
 		"iS": 1759,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_cdr.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_doc.png": {
 		"ft": 32768,
 		"iS": 1588,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_doc.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_docx.png": {
 		"ft": 32768,
 		"iS": 1597,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_docx.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_mov.png": {
 		"ft": 32768,
 		"iS": 1693,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_mov.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_mp3.png": {
 		"ft": 32768,
 		"iS": 1602,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_mp3.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_pdf.png": {
 		"ft": 32768,
 		"iS": 1484,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_pdf.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_png.png": {
 		"ft": 32768,
 		"iS": 1655,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_png.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_ppt.png": {
 		"ft": 32768,
 		"iS": 1474,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_ppt.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_pptx.png": {
 		"ft": 32768,
 		"iS": 1594,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_pptx.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_psd.png": {
 		"ft": 32768,
 		"iS": 1662,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_psd.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_pub.png": {
 		"ft": 32768,
 		"iS": 1571,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_pub.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_rar.png": {
 		"ft": 32768,
 		"iS": 1508,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_rar.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_tiff.png": {
 		"ft": 32768,
 		"iS": 1578,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_tiff.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_wav.png": {
 		"ft": 32768,
 		"iS": 1596,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_wav.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_wma.png": {
 		"ft": 32768,
 		"iS": 1683,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_wma.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_wmv.png": {
 		"ft": 32768,
 		"iS": 1703,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_wmv.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_xls.png": {
 		"ft": 32768,
 		"iS": 1651,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_xls.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_xlsx.png": {
 		"ft": 32768,
 		"iS": 1689,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_xlsx.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/icons_zip.png": {
 		"ft": 32768,
 		"iS": 1441,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/icons_zip.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/info.png": {
 		"ft": 32768,
 		"iS": 449,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/info.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/menu_button.png": {
 		"ft": 32768,
 		"iS": 164,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/menu_button.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/pollBar.jpg": {
@@ -517,27 +559,30 @@
 		"oA": 1,
 		"oAP": "\/images\/pollBar.jpg",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/images\/selector.png": {
 		"ft": 32768,
 		"iS": 3011,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/selector.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/sprite-2-07.png": {
 		"ft": 32768,
 		"iS": 400,
-		"l": 1,
 		"oA": 1,
 		"oAP": "\/images\/sprite-2-07.png",
 		"oF": 1,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/js\/amc-functions.js": {
@@ -577,6 +622,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/rel\/stylesheet\/media\/print\/print-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/rel\/stylesheet\/screen-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/rel\/stylesheet\/screen-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -1569,6 +1624,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -2393,14 +2452,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -2463,7 +2514,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {

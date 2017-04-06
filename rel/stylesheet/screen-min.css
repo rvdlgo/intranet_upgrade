@@ -1338,12 +1338,12 @@ input[type="checkbox"] {
   background-color: #fff; }
 
 .download-amc {
-  clear: both; }
+  clear: both;
+  overflow: hidden; }
 
 .download-amc .download {
   display: inline-block;
-  float: left;
-  height: 40px; }
+  float: left; }
 
 .download-amc .filesize {
   display: inline-block;

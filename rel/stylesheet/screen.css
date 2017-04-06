@@ -1605,12 +1605,12 @@ input[type="checkbox"] {
 
 .download-amc {
     clear: both;
+    overflow: hidden;
 }
 
 .download-amc .download {
     display: inline-block;
     float: left;
-    height: 40px;
 }
 
 .download-amc .filesize {
