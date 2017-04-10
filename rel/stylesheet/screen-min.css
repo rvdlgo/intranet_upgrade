@@ -916,6 +916,10 @@ table caption {
   color: #AA273B;
   letter-spacing: 1px; }
 
+.gridtable td {
+  border: 0;
+  padding: 0; }
+
 .column-wide ol {
   list-style-type: decimal-leading-zero;
   padding-left: 35px; }
