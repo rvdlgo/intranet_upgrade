@@ -507,6 +507,8 @@ input[type="search"] {
     float: left;
     width: 350px;
     height: 35px;
+    background: #f2f2f2;
+    border: 0;
 }
 
 .search-cluster .formbutton input[type="submit"] {
