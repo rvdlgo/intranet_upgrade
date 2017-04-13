@@ -899,8 +899,19 @@ h1 a:hover {
   transition: border-color .5s; }
 
 table {
-  margin: 20px 0 20px 0;
+  margin: 20px 0 20px 0; }
+
+table.clear {
   width: 100%; }
+
+table.right {
+  float: right; }
+
+table.left {
+  float: left; }
+
+table.center {
+  margin: 0 auto; }
 
 th,
 td {
