@@ -402,7 +402,7 @@ input[type="search"] {
 .search-default input[type="search"] {
   float: left;
   width: 220px;
-  height: 22px;
+  height: 30px;
   margin-right: 10px;
   -webkit-appearance: textfield;
      -moz-appearance: textfield;
