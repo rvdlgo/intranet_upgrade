@@ -1972,6 +1972,13 @@ select[id="searchresult-order"] {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
 }
+.contactinfo {
+    float: right;
+    box-sizing: border-box;
+    margin-top: 20px;
+    padding: 20px;
+    background: #DFEAEE
+}
 
 .column-wide .clearall,
 .skiplinks {
