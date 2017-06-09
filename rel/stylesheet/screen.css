@@ -1062,16 +1062,21 @@ table {
   }
 table.clear{
   width: 100%;
+    clear: both;
 }
 
 table.right{
   float: right;
+margin-left: 20px;
 }
 table.left{
   float: left;
+  margin-right: 20px;
+    margin-top: 0;
 }
 table.center{
-  margin: 0 auto
+  margin: 0 auto;
+    clear: both;
   }
 
 th,
@@ -2028,6 +2033,7 @@ div.editableContainer {
 
 .listaccordion-default {
     margin: 20px 0;
+    clear: both
 }
 
 .accordion {
