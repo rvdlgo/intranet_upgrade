@@ -1977,6 +1977,10 @@ select[id="searchresult-order"] {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
 }
+.intro .islast img{
+    width:100%;
+    height:auto
+}
 .contactinfo {
     float: right;
     box-sizing: border-box;
