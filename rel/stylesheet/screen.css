@@ -916,14 +916,11 @@ facetten .facet-items a {
     height: 40px;
     border-bottom: 2px solid #f2f2f2;
 }
-
 .clustertitle {
     display: inline-block;
     float: left;
-    height: 40px;
-    margin: 0 10px;
+    margin: 15px 20px 0 20px;
 }
-
 .clustertitle:hover {
     height: 40px;
     border-bottom: 1px solid #AA273B;
@@ -952,6 +949,7 @@ facetten .facet-items a {
     border-radius: 3px;
     transition: border-color .5s;
     cursor: pointer;
+    margin-top: 15px;
 }
 
 .open-subnavigation:hover {
