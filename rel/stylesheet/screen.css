@@ -326,7 +326,15 @@ a:active,
 a.meer:visited {
     color: #348295;
 }
-
+h2 a{
+    color:#AA273B;
+}
+h2 a:hover {
+    text-decoration: none;
+}
+h2 a:visited{
+    color:#AA273B;
+}
 .article-default a.button {
     display: inline-block;
     clear: both;
@@ -1967,7 +1975,6 @@ select[id="searchresult-order"] {
     display: none;
 }
 .g-grid-row.intro {
-    background: #f2f2f2;
     margin: -10px;
     width: calc(100% + 19px);
     padding: 20px 10px;
