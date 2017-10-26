@@ -1,0 +1,14 @@
+#header-wrapper, .column-wider, .sitewidepages, .open-subnavigation, .h1-wrapper, #pagingblock{
+	display:none
+}
+body{
+background-color:#fff
+}
+#container-wrapper, #container, #main-wrapper, #main, .column-wide{
+ width:100%;
+ }
+.column-wide {
+background-image:none;
+}
+p, .text, .summary{
+font-size:18px}

@@ -2062,6 +2062,7 @@ div.editableContainer {
     padding: 5px 10px;
 }
 
+
 .ui-accordion-header a:hover {
     text-decoration: none;
 }
@@ -2087,3 +2088,19 @@ a.facet[rel~="true"] strong {
     font-family: "source sans proregular"!important;
     font-weight: normal;
 }
+
+
+
+.accordion .ui-state-default .sprite {
+    display: inline-block;
+    float: right;
+    width: 10px;
+    height: 10px;
+    background-image: url("/images/inactiveactive_accordion.png")
+    
+}
+.accordion .ui-state-active .sprite{
+     background-image: url("/images/active_accordion.png");
+}
+
+

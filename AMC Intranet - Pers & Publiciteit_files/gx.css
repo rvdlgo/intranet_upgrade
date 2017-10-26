@@ -1,0 +1,80 @@
+/* 
+  This CSS document contains GX WebManager or Freestyle
+  specific styles.
+*/
+
+/*
+  This class is used inside the Interactive Forms functionality
+*/
+.displayNone {
+  display: none;
+}
+
+/*
+  This class will hide all HTML elements with class displaynone
+*/
+.displaynone {
+  display: none;
+}
+
+/*
+  The following alignment classes are used for richtext elements
+  (canvas text).
+*/
+.alignright {
+  text-align: right;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+.alignleft {
+  text-align: left;
+}
+
+.clearall {
+  clear: both;
+}
+
+/*
+  The following class is used for the 'formback' form which now contains
+  a submit button for web guidelines compliance (GXWM-10282).
+*/
+.buttonSubmitHidden {
+  display: none;
+}
+
+a.external {
+    background: url("../images/links/extern.png")no-repeat scroll right center transparent;
+    padding-right: 13px;
+}
+
+.top,
+.bottom {
+  display: block !important;
+}
+
+.incontext .maincontentarea {
+  min-height:400px;
+}
+
+.incontext .rightcontentarea {
+  min-height:200px;
+}
+
+.maincontentarea.rte_container {
+  margin-top: 14px;
+}
+
+.h1-wrapper h1.rte_container {
+  margin-top: 74px;
+}
+
+/*
+ Used for product catalog
+*/
+.editablePDCSection {
+      min-height:2em;
+      margin-top:1em;
+    }
