@@ -1582,10 +1582,15 @@ input[type="checkbox"] {
 .ui-datepicker-prev {
     cursor: pointer;
     margin-bottom: 5px;
+    margin-right:15px;
     display: inline-block;
 }
 
 .ui-datepicker-prev {
+    float: left;
+    margin-left:5px
+}
+.ui-datepicker-next {
     float: right;
 }
 
