@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+.poll_results {
+	font-size: 15px; 
+	font-style: initial;
+}
+.poll_totalvotes {
+	width: 100%;
+}
+.poll_result {
+	display:none;
+}
+.poll_form {
+	display:none;
+}
+.poll_header {
+	color: #f1954a;
+	font-size: 16px;
+}
+.poll_totalvotes {
+	color: #f1954a;
+	margin-left: 10px;
+	font-size: 14px;
+}
+.poll_summary {
+	color: #f1954a;
+	margin-left: 10px;
+    font-size: 14px;
+}
+.poll_question {
+	margin-left: 10px;
+}
