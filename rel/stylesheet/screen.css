@@ -578,6 +578,10 @@ input[type="search"] {
     text-decoration: none;
 }
 
+.searchresult-events span.category {
+    display: none;
+}
+
 .search-default legend,
 .search-default .field label {
     display: none
@@ -1582,15 +1586,10 @@ input[type="checkbox"] {
 .ui-datepicker-prev {
     cursor: pointer;
     margin-bottom: 5px;
-    margin-right:15px;
     display: inline-block;
 }
 
 .ui-datepicker-prev {
-    float: left;
-    margin-left:5px
-}
-.ui-datepicker-next {
     float: right;
 }
 
@@ -2067,7 +2066,6 @@ div.editableContainer {
     padding: 5px 10px;
 }
 
-
 .ui-accordion-header a:hover {
     text-decoration: none;
 }
@@ -2093,19 +2091,3 @@ a.facet[rel~="true"] strong {
     font-family: "source sans proregular"!important;
     font-weight: normal;
 }
-
-
-
-.accordion .ui-state-default .sprite {
-    display: inline-block;
-    float: right;
-    width: 10px;
-    height: 10px;
-    background-image: url("../../images/inactiveactive_accordion.png")
-    
-}
-.accordion .ui-state-active .sprite{
-     background-image: url("../../images/active_accordion.png");
-}
-
-
